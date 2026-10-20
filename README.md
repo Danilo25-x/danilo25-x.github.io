@@ -1,19 +1,25 @@
-# Portafolio de Danilo
+# Sitio web de Danilo25-x
 
-Sitio web personal para presentar mi portafolio. Está construido con HTML y tiene `index.html` como página principal.
+Landing page de servicios tecnológicos y portafolio de proyectos. Presenta aplicaciones de punto de venta, APIs REST y servicios de desarrollo web.
 
 ## Tecnologías
 
 - HTML
+- CSS
+- GitHub Pages
 
-## Ver el sitio localmente
+## Ver el sitio
 
-Abre `index.html` en tu navegador. El proyecto no requiere instalar dependencias para visualizar la página.
+Visita [danilo25-x.github.io](https://danilo25-x.github.io/).
 
-## Publicación
+## Ejecutar localmente
 
-Este repositorio está preparado para alojar el sitio con GitHub Pages en `https://danilo25-x.github.io/`.
+Abre el archivo index.html en un navegador. No requiere instalar dependencias.
 
-## Archivo principal
+## Proyectos presentados
 
-- `index.html`: estructura y contenido del sitio.
+- [ZonaFit-POS](https://github.com/Danilo25-x/ZonaFit-POS), [J97-POS](https://github.com/Danilo25-x/J97-POS) y [Osmar-pos](https://github.com/Danilo25-x/Osmar-pos)
+- [API de jardín infantil](https://github.com/Danilo25-x/jardin-infantil-api)
+- [API de música](https://github.com/Danilo25-x/musica-api)
+
+El sitio se publica con GitHub Pages desde este repositorio.
