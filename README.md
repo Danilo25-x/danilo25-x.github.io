@@ -1,6 +1,6 @@
 # Sitio web de Danilo25-x
 
-Landing page de servicios tecnológicos y portafolio de proyectos. Presenta aplicaciones de punto de venta, APIs REST y servicios de desarrollo web.
+Landing page de servicios tecnológicos y portafolio de proyectos. Presenta aplicaciones de punto de venta, automatización de citas, APIs REST y servicios de desarrollo web.
 
 ## Tecnologías
 
@@ -20,6 +20,6 @@ Abre el archivo index.html en un navegador. No requiere instalar dependencias.
 
 - [ZonaFit-POS](https://github.com/Danilo25-x/ZonaFit-POS), [J97-POS](https://github.com/Danilo25-x/J97-POS) y [Osmar-pos](https://github.com/Danilo25-x/Osmar-pos)
 - [API de jardín infantil](https://github.com/Danilo25-x/jardin-infantil-api)
-- [API de música](https://github.com/Danilo25-x/musica-api)
+- [Automatización de citas para barbería](https://github.com/Danilo25-x/Automatizacion-Barberia)
 
 El sitio se publica con GitHub Pages desde este repositorio.
